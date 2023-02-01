@@ -61,21 +61,21 @@
   height: 105px;
   font-size: 18px;
   font-weight: 400;
-  color: #86878B;
-  font-family: 'Raleway', sans-serif;
+  color: #86878b;
+  font-family: "Raleway", sans-serif;
 }
 .column-triangle {
   position: absolute;
   top: 178px;
   left: 60px;
   width: 0;
-	height: 0;
-	border: 20px solid transparent;
-  border-top: 20px solid #E2E2E2;
+  height: 0;
+  border: 20px solid transparent;
+  border-top: 20px solid #e2e2e2;
 }
 .block-customer {
-margin-top: 66px;
-display: flex;
+  margin-top: 66px;
+  display: flex;
 }
 .img {
   width: 75px;
@@ -87,8 +87,7 @@ display: flex;
   flex-direction: column;
   margin-top: 5px;
   margin-left: 30px;
-  font-family: 'Open Sans', sans-serif;
-
+  font-family: "Open Sans", sans-serif;
 }
 .name {
   margin-bottom: 15px;
