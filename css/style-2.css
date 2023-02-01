@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0 auto;
+}
+.box {
+ position: relative;
+}
+.item {
+  width: 500px;
+  height: 400px;
+  position: absolute;
+  left: 500px;
+  top: 160px;
+}
